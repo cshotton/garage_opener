@@ -1,8 +1,18 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  height: 100%;
+}
+
+.fullheight {
+    height:100%;
 }
 
 a {
   color: #00B7FF;
+}
+
+#theButtonSpacer {
+    height: 250px;
+    margin-top:200px;
 }
